@@ -1,1 +1,1 @@
-Chat Application Developed using Spring Boot
+Chat Application using Spring Boot
